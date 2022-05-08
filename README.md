@@ -1,9 +1,5 @@
 ### Hi👋, I'm Dhananjaya Madhusankha
 
-<!--
-**dhananjayamadhusankha/dhananjayamadhusankha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studing on SLIIT
 - 🌱 I’m currently learning MERN Stack and Laravel
@@ -14,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mdhananjaya04@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
