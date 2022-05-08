@@ -1,4 +1,4 @@
-### Hi👋, I'm Dhananjaya Madhusankha
+# Hi👋, I'm Dhananjaya Madhusankha
 
 
 - 🔭 I’m currently studing on SLIIT
