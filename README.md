@@ -1,7 +1,7 @@
 # Hi👋, I'm Dhananjaya Madhusankha
 
 
-- 🔭 I’m currently studing on SLIIT
+- 🔭 I’m currently studing on # SLIIT
 - 🌱 I’m currently learning MERN Stack and Laravel
 - 👯 I’m looking to collaborate on GitHub
 - 👨‍💻 All of my projects are available at https://github.com/dhananjayamadhusankha
