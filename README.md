@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about **Java, C, C++, HTML, CSS, PHP, JavaScript, NodeJs, ReactJs, Boostrap**
 - 📫 How to reach me: mdhananjaya04@gmail.com
-- 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love to play Drums and Karate
+- 😄 Pronouns: He/ Him
 
