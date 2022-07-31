@@ -10,4 +10,3 @@
 - 📫 How to reach me: mdhananjaya04@gmail.com
 - ⚡ Fun fact: I love to play Drums and Karate
 - 😄 Pronouns: He/ Him
-
