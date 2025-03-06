@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about **Java, C, C++, HTML, CSS, PHP, Laraval, JavaScript, NodeJs, ReactJs, Boostrap**
 - 📫 How to reach me: mdhananjaya04@gmail.com
-- ⚡ Fun fact: I love to play Drums and 
+- ⚡ Fun fact: I love to play  Karate
 - 😄 Pronouns: He/ Him
